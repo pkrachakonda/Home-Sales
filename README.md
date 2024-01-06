@@ -1,6 +1,4 @@
 # Home-Sales
-Module 22 Challenge
-
 
 ## Introduction
 As part of this Challenge Pyspark is used to predict the key metrics for the home sales data using SparkSQL queries.
